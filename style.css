@@ -1,0 +1,38 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.btn
+{
+    background-color: crimson;
+    border: rgb(21, 156, 247);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.card{
+    padding: 1rem;
+    border-radius: 20px;
+    }
+    .img{
+    border-radius: 20px;
+    }
+    .footer{
+    height: 4rem;
+    }
+    .top margin{
+    margin-top: 5rem;
+    }
+    
+    
